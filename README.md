@@ -2,13 +2,11 @@
 
 ### Software Engineer | Backend Engineer | Cloud & Distributed Systems
 
-I build scalable backend systems, cloud-native services, and data-driven applications with a strong focus on reliability, performance, and clean system design.
-
 ## About
 
-I am currently pursuing my M.S. in Computer Science at Michigan State University and enjoy building production-ready backend systems using Java, Python, Spring Boot, PostgreSQL, and AWS.
+I specialize in building production-ready backend systems and scalable applications using Java, Python, Spring Boot, PostgreSQL, AWS, Docker, Kubernetes, and REST APIs. My expertise includes backend development, distributed systems, microservices, cloud-native applications, data pipelines, system design, and performance optimization.
 
-My core interest is backend and distributed systems engineering, and I am also expanding my knowledge in the field of AI and machine learning to better understand how intelligent systems can be integrated into real-world software products.
+I am currently expanding my knowledge and expertise in AI and machine learning to better understand how intelligent systems can be designed and integrated into real-world software products.
 
 ## Experience
 
@@ -30,13 +28,14 @@ Jul 2021 - Dec 2023
 
 ## Certifications
 
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Developer - Associate
+- AWS Certified Solutions Architect - Associate [Badge](https://www.credly.com/badges/7f988268-a1c4-4917-aed4-909e9247691d)
+- AWS Certified Developer - Associate [Badge](https://www.credly.com/badges/6710e687-969f-405b-b8b4-3a348f9670a2)
+- AWS Certified Cloud Practitioner [Badge](https://www.credly.com/badges/5c1e21d7-28eb-4752-9ba2-ec02736d988e)
 
 ## Skills
 
 **Languages:**  
-Java, Python, JavaScript, TypeScript, C++, SQL
+Java, Python, JavaScript, TypeScript, C++, SQL, HTML, CSS
 
 **Frameworks and Tools:**  
 Spring Boot, React, Angular, REST APIs, JUnit, Mockito
