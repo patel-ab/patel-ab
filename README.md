@@ -10,7 +10,7 @@
 
 ## 💼 Experience
 
-- **Software Engineering Intern** — Changing The Present  
+- **Software Engineer** — Epic Medical Research  
   *Jan 2026 - Present*
 
 - **Web Developer** — Michigan State University  
