@@ -10,7 +10,7 @@ I'm a software engineer who likes owning a system end to end, from designing the
 
 I've shipped software for healthcare and financial services, two industries where reliability, security, and data accuracy aren't optional. I hold an M.S. in Computer Science from Michigan State University and three AWS certifications.
 
-## 🏢 Production projects
+## 💼 Experience
 
 ### Epic Medical Research
 *Software Engineer · Jan 2026 – Present*
@@ -21,6 +21,16 @@ Epic Medical Research runs clinical trials, and I build the software that helps 
 - **EclinAsk.** This is a HIPAA-compliant clinical Q&A assistant. RAG improved its answer accuracy by about 20%, and token-bucket throttling cut OpenAI costs by about 40%. Access is secured with OAuth2, JWT, and role-based permissions.
 
 `Java` `Spring Boot` `Python` `React` `TypeScript` `AWS Lambda` `DynamoDB` `AWS Bedrock` `OpenAI API` `PostgreSQL` `MSSQL`
+
+### Michigan State University
+*Graduate Teaching Assistant · Jan 2025 – May 2025*
+
+I was a TA for Object-Oriented Software Development, a core course on OOP, design patterns, and software design principles.
+
+- **Team lead.** I coordinated a team of 20 TAs, keeping grading, labs, and office hours consistent across the course.
+- **Student outcomes.** Through hands-on labs, code reviews, and one-on-one debugging help, we raised the course pass rate to 95%.
+
+`Object-Oriented Design` `Design Patterns` `SOLID` `Code Review` `Mentorship`
 
 ### Tata Consultancy Services, for Equifax
 *Software Engineer · Jul 2021 – Dec 2023*
@@ -84,7 +94,6 @@ At TCS I worked on the Equifax account, building backend services for U.S. credi
 ## 🎓 Education
 
 - **M.S. Computer Science**, Michigan State University (2025) · GPA 3.9/4.0
-  - Graduate TA for Object-Oriented Software Development, where I led a team of 20 TAs
 - **B.E. Computer Science**, Gujarat Technological University (2021) · GPA 3.95/4.0
 
 ## 📫 Get in touch
