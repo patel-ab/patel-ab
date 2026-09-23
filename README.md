@@ -2,38 +2,35 @@
 
 **Software Engineer building backend systems and AI-powered products that run in production.**
 
-Java · Spring Boot · Python · TypeScript · React · AWS · LLMs & RAG · 3x AWS Certified · M.S. CS, Michigan State
-
 ---
 
-I design and ship the parts of software that users never see but always depend on: APIs, data pipelines, event-driven services, and, more and more, the LLM layer behind AI features.
+## 👨‍💻 About me
 
-Right now I'm at **Epic Medical Research** in Dallas, building AI tools for clinical trials: a platform that screens and enrolls patients automatically, and an assistant that answers questions straight from study protocols. Before that, I spent 2.5 years at **Tata Consultancy Services** writing Java microservices for Equifax's credit monitoring systems.
+I'm a software engineer who likes owning a system end to end, from designing the API and the data model through deployment and keeping it running in production. Most of my work sits on the backend: Java and Spring Boot microservices, event-driven pipelines, and cloud infrastructure on AWS and GCP. More recently I've been building the AI layer behind products, using LLMs, retrieval-augmented generation, and cost controls that make AI features practical to run at scale.
 
-## 🔨 What I'm working on
+I've shipped software for healthcare and financial services, two industries where reliability, security, and data accuracy aren't optional. I hold an M.S. in Computer Science from Michigan State University and three AWS certifications.
 
-- **Grounding LLMs in real documents.** I'm building retrieval pipelines (RAG) so model answers cite clinical protocols instead of guessing.
-- **Keeping AI features affordable.** I'm working on per-user rate limiting and caching that cut LLM API spend without users noticing.
-- **Event-driven backends.** I'm using Kafka and Spring Boot to decouple services so one slow step doesn't stall the whole system.
+## 🏢 Production projects
 
-## 🚀 Featured projects
+### Epic Medical Research
+*Software Engineer · Jan 2026 – Present*
 
-| Project | What it does | Built with |
-|---|---|---|
-| [**BrightHire**](https://github.com/patel-ab/REPO-NAME) | Hiring platform that ranks candidates by *meaning*, not keyword overlap, using sentence embeddings. It beat keyword filtering on shortlist relevance by about 30%. | Java, Spring Boot, Kafka, Redis, MongoDB, PostgreSQL, Python (NLP), React, S3 |
-| [**Portfolio**](https://patel-ab.github.io/abhishek-portfolio) | My personal site covering my projects, experience, and writing. | [stack] |
-| [**PROJECT 3**](https://github.com/patel-ab/REPO-NAME) | [One sentence: the problem it solves and one result] | [stack] |
+Epic Medical Research runs clinical trials, and I build the software that helps its teams recruit patients and work with study protocols faster.
 
-> ⭐ The repos pinned below have their own READMEs with architecture notes and setup steps.
+- **Eclin-Recruit.** I architected an AI patient-enrollment platform with a real-time eligibility chatbot on AWS Lambda and DynamoDB, which removed about 70% of recruiters' manual work. Automated follow-ups lifted patient response rates by 40%, and duplicate-outreach checks cut messaging costs by 30%.
+- **EclinAsk.** This is a HIPAA-compliant clinical Q&A assistant. RAG improved its answer accuracy by about 20%, and token-bucket throttling cut OpenAI costs by about 40%. Access is secured with OAuth2, JWT, and role-based permissions.
 
-## 🏢 Production work (private repos)
+`Java` `Spring Boot` `Python` `React` `TypeScript` `AWS Lambda` `DynamoDB` `AWS Bedrock` `OpenAI API` `PostgreSQL` `MSSQL`
 
-Most of my professional code lives in private company repos, so here's the short version of what shipped:
+### Tata Consultancy Services, for Equifax
+*Software Engineer · Jul 2021 – Dec 2023*
 
-- **Eclin-Recruit, Epic Medical Research.** I architected an AI patient-enrollment platform with a real-time eligibility chatbot on AWS Lambda and DynamoDB, which removed about 70% of recruiters' manual work.
-- **EclinAsk, Epic Medical Research.** This is a HIPAA-compliant clinical Q&A assistant. RAG improved its answer accuracy by about 20%, and token-bucket throttling cut OpenAI costs by about 40%.
-- **Credit monitoring, TCS for Equifax.** I built webhook microservices that alert lenders the instant a credit inquiry hits a borrower's file, across millions of profiles.
-- **Credit data platform, TCS for Equifax.** I automated legacy data migrations and brought the codebase to 90%+ test coverage with JUnit and Mockito.
+At TCS I worked on the Equifax account, building backend services for U.S. credit monitoring and credit data platforms.
+
+- **Undisclosed Debt Monitoring.** I built webhook microservices that alert lenders the instant a credit inquiry hits a borrower's file, across millions of profiles. A scheduled ingestion service replaced more than 3 hours of daily manual processing.
+- **Credit Data Transformation Platform.** I automated legacy data migrations, saving over 2 hours per cycle, and brought the codebase to 90%+ test coverage with JUnit and Mockito.
+
+`Java` `Spring Boot` `Python` `Elasticsearch` `PostgreSQL` `Avro` `Docker` `Kubernetes` `Jenkins` `GCP`
 
 ## 🛠️ Tech stack
 
@@ -80,19 +77,20 @@ Most of my professional code lives in private company repos, so here's the short
 
 ## 🏆 Certifications
 
-[![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/7f988268-a1c4-4917-aed4-909e9247691d)
-[![AWS Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/6710e687-969f-405b-b8b4-3a348f9670a2)
+[![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/7f988268-a1c4-4917-aed4-909e9247691d)<br>
+[![AWS Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/6710e687-969f-405b-b8b4-3a348f9670a2)<br>
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/5c1e21d7-28eb-4752-9ba2-ec02736d988e)
 
 ## 🎓 Education
 
-- **M.S. Computer Science**, Michigan State University (2025) · GPA 3.9/4.0 · Graduate TA for Object-Oriented Software Development, where I led a team of 20 TAs
+- **M.S. Computer Science**, Michigan State University (2025) · GPA 3.9/4.0
+  - Graduate TA for Object-Oriented Software Development, where I led a team of 20 TAs
 - **B.E. Computer Science**, Gujarat Technological University (2021) · GPA 3.95/4.0
 
 ## 📫 Get in touch
 
 I'm open to Software Engineer roles in backend, full-stack, or applied AI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://patel-ab.github.io/abhishek-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-patel2000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=googlechrome&logoColor=white)](https://patel-ab.github.io/abhishek-portfolio)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-patel2000)<br>
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishekvpatel20@gmail.com)
