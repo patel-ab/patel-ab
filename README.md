@@ -20,7 +20,7 @@ Epic Medical Research runs clinical trials, and I build the software that helps 
 - **Eclin-Recruit.** I architected an AI patient-enrollment platform with a real-time eligibility chatbot on AWS Lambda and DynamoDB, which removed about 70% of recruiters' manual work. Automated follow-ups lifted patient response rates by 40%, and duplicate-outreach checks cut messaging costs by 30%.
 - **EclinAsk.** This is a HIPAA-compliant clinical Q&A assistant. RAG improved its answer accuracy by about 20%, and token-bucket throttling cut OpenAI costs by about 40%. Access is secured with OAuth2, JWT, and role-based permissions.
 
-`Java` `Spring Boot` `Python` `React` `TypeScript` `AWS Lambda` `DynamoDB` `AWS Bedrock` `OpenAI API` `PostgreSQL` `MSSQL`
+`Java` `Spring Boot` `Python` `React` `TypeScript` `AWS Lambda` `DynamoDB` `AWS Bedrock` `OpenAI API` `PostgreSQL`
 
 ### Michigan State University
 *Graduate Teaching Assistant · Jan 2025 – May 2025*
